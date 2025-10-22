@@ -17,11 +17,11 @@ string="google"
 
 if string==string[::-1]: 
 
-print ("The entered string is palindrome")
+   print ("The entered string is palindrome")
 
 else: 
 
-print ("The entered string is not palindrome") 
+   print ("The entered string is not palindrome") 
 
 ```
 ## Output
